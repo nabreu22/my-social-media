@@ -11,7 +11,7 @@ This project is a reconstruction of the instagram landing page made with Html an
 </p>
 
 <p align="center">
-  <img alt="project Habits" src=".github/preview.jpg" width="100%">
+  <img alt="project Habits" src="./img/cover.png" width="100%">
 </p>
 
 <br>
