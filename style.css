@@ -11,7 +11,7 @@
 body{
     width: 100%;
     min-height: 100vh;
-    background-color: rgb(243 243 243);
+    background-color: white;
     margin: 0;
     padding: 0;
     display: flex;
@@ -23,20 +23,29 @@ body{
     display: flex;
     align-items: center;
     justify-content: start;
-    width: 60%;
+    width: 70%;
     height: 100vh;
 }
 
 .instagram-phone {
+    position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 50%;
 }
 
-.instagram-phone img {
-    height: 50rem;
+.carousel-image {
+    position: absolute;
+    top: 26px;
+    left: 156px;
+    opacity: 0;
 }
+
+.carousel-image.active {
+    opacity: 100;
+}
+
+
 
 .instagram-continue {
     display: flex;
@@ -54,7 +63,7 @@ body{
     align-items: center;
     flex-direction: column;
     background-color: #ffffff;
-    padding: 1.3rem;
+    padding: 1rem;
     border: 1px solid lightgray;
 
 }
