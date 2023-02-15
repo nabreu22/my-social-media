@@ -28,7 +28,7 @@ This project was developed with the following technologies:
 
 Is a reconstruction of the instagram landing page made with Html and CSS, using some concepts of Flex Box and responsiveness.
 
-- [Visit the project online](https://nabreu22.github.io/habit-list)
+- [Visit the project online](https://nabreu22.github.io/instagram-clone)
 
 
 
