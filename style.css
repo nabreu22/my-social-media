@@ -39,10 +39,13 @@ body{
     top: 26px;
     left: 156px;
     opacity: 0;
+    
+
 }
 
 .carousel-image.active {
     opacity: 100;
+    transition: 1s;
 }
 
 
