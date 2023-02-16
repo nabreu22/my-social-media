@@ -27,7 +27,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-Is a reconstruction of the instagram landing page made with Html and CSS, using some concepts of Flex Box and responsiveness.
+Is a reconstruction of the instagram landing page made with Javascript, Html and CSS, using some concepts of Flex Box and responsiveness.
 
 - [Visit the project online](https://nabreu22.github.io/my-social-media)
 
