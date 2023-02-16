@@ -21,6 +21,7 @@ This project is a reconstruction of the instagram landing page made with Html an
 This project was developed with the following technologies:
 
 - HTML and CSS
+- Javascript
 - Git and Github
 
 
