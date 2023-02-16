@@ -1,7 +1,9 @@
 const carousel = document.querySelector(".carousel");
 const carouselImages = document.querySelector(".carousel-image")
 
-carousel.addEventListener('click', doCarousel);
+// carousel.addEventListener('click', doCarousel);
+
+const intervalID = setInterval(doCarousel, 2500);
 
 let nextActive = 1
 
@@ -28,8 +30,5 @@ function doCarousel(){
     
     console.log(carousel.children, nextActive);
 
-    
-    // for(let i = 0; i < carousel.children.length; i++){
-    // }
 }
 
